@@ -1,16 +1,3 @@
 # burger_order
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hello again! I'm here to help you with your new burger ordering application. The main menu design is ready, and we're still working on the registration and login processes. There are many more exciting features we'll be adding to the app. Stay tuned for more updates!
